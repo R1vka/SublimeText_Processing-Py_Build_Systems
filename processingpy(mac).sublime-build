@@ -1,0 +1,3 @@
+{
+	"cmd": ["/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java", "-jar", "/Applications/ProcessingPy/processing.py-0021/processing-py.jar", "$file"]
+}

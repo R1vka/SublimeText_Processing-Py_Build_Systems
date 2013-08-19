@@ -1,0 +1,8 @@
+//{
+//	"cmd": ["C:\\Users\\Josh Kingsbury\\AppData\\Roaming\\Sublime Text 2\\Packages\\ProcessingPy\\processing.py-0021\\processing-py.bat", "$file"],
+//	"file_regex": "^[ ]*File \"(...*?)\", line([0-9])"
+//}
+
+{
+ "cmd": ["java", "-jar","C:\\Users\\Josh Kingsbury\\AppData\\Roaming\\Sublime Text 2\\Packages\\ProcessingPy\\processing.py-0021\\processing-py.jar", "$file"]
+}
